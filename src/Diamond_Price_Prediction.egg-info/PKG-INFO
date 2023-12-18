@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Diamond-Price-Prediction
+Version: 0.0.1
+Author: Keesari Vigneshwar Reddy
+Author-email: 22ucc052@lnmiit.ac.in
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: sklearn
